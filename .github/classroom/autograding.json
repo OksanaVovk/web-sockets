@@ -1,0 +1,24 @@
+{
+    "tests": [
+      {
+        "name": "Client test",
+        "setup": "npm install",
+        "run": "CI=true npm test -t client.test",
+        "input": "",
+        "output": "",
+        "comparison": "exact",
+        "timeout": 5,
+        "points": null
+      },
+      {
+        "name": "Server test",
+        "setup": "",
+        "run": "cd server && npm i && CI=true npm test",
+        "input": "",
+        "output": "",
+        "comparison": "exact",
+        "timeout": 5,
+        "points": null
+      }
+    ]
+  }
