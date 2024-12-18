@@ -2,7 +2,7 @@
   "name": "web-sockets-react-solution",
   "version": "0.1.0",
   "private": true,
-   "homepage": "https://oksanavovk.github.io/web-socket/",
+  "homepage": "https://oksanavovk.github.io/web-socket/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -15,7 +15,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -37,6 +38,7 @@
   },
   "devDependencies": {
     "@testing-library/dom": "^8.19.0",
-    "@testing-library/user-event": "^14.4.3"
+    "@testing-library/user-event": "^14.4.3",
+    "gh-pages": "^6.2.0"
   }
 }
