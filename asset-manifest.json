@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-socket/static/css/main.073c9b0a.css",
+    "main.js": "/web-socket/static/js/main.262f6654.js",
+    "index.html": "/web-socket/index.html",
+    "main.073c9b0a.css.map": "/web-socket/static/css/main.073c9b0a.css.map",
+    "main.262f6654.js.map": "/web-socket/static/js/main.262f6654.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.262f6654.js"
+  ]
+}
