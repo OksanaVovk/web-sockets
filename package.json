@@ -2,7 +2,7 @@
   "name": "web-sockets-react-solution",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oksanavovk.github.io/web-socket/",
+  "homepage": "https://oksanavovk.github.io/web-sockets/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
